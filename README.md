@@ -7,7 +7,7 @@ How to work with a project for developers:
     1) Install Unreal Engine using this instuction -> https://github.com/EpicGames/UnrealEngine
     2) Clone or download PDP-2 project
     3) Generate project files: right click on the file PDP.uproject and select Generate Visual Studio project files in the menu.
-How to launch the game to users:
+    How to launch the game to users:
     0) Works only on the Windows system.
     1) First, you need to download the game archive from here https://drive.google.com/drive/folders/1gRmnewJMWTIlNWSok-E1hotAarRKiQdk Game.rar.
     2) After unzipping, we have the Windows folder and WindowsServer folder.
